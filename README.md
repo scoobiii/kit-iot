@@ -1,4 +1,4 @@
-# KIT ELO IOT
+# KIT ELO IOT to PLIMM
 
 ![ Placa ELO + Raspberry Zero W ](/images/kit_ELO1.PNG)
 ![ Placa ELO schematic ](/images/kit_ELO_SCH.png)
